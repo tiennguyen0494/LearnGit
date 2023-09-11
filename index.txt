@@ -1,14 +1,1 @@
-Hi!
-My name is Tien
-113
-Hi
-This is a text
-- Line 1
-- Line 2
-- Line 3
-- Line 4
-- Line 5
-- Line 6
-- Line 7
-- xin chao
-- bla bla
+Hello 1
